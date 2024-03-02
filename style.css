@@ -1,0 +1,11 @@
+.chat{
+    background-color: aquamarine;
+    display: inline-block;
+    margin-left: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.message{
+    background-color: blue;
+    color:white;
+}
